@@ -12,6 +12,6 @@ variable "hw" {
 
 variable "name" {
   type = string
-  default = "gagan-server-3"
+  default = "vij-server-3module"
   description = "Enter your server name"
 }
