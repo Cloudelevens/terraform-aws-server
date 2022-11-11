@@ -12,6 +12,6 @@ variable "hw" {
 
 variable "name" {
   type = string
-  default = "vij-server-3module"
+  default = "vij-server-3"
   description = "Enter your server name"
 }
